@@ -2,10 +2,9 @@ Streaming Media Regex
 
 # Regular Expressions:
 
-.*nflxso.net
-.*nflxext.com
-.*nflximg.com
-.*netflix.com
-.*disney-plus.net
-.*disneyplus.com
-.*disney.*
+nflxso.net
+nflxext.com
+nflximg.com
+netflix.com
+disney-plus.net
+disneyplus.com
